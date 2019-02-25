@@ -1,1 +1,3 @@
-# autonomous-x-teleremote
+As the technology advances more and more autonomous X ( robots/machines/vehicles ) appears. Connected by ubiquitous cellular network ( 4G/5G ) will enhance the their mobitiy. Thus Autonomous X can move and execcute many tasks. Neverthless the automated system need to be surpervised and managed by human.
+
+A central operation office is likely to host the human surpervisor and operator. Sensor information ( camera, LIDAR, RANDAR ) and commands need to be low latency and securely transferred between X and operation office. Here provides an sample application for building tele-remote system for autonomous X. 
